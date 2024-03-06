@@ -27,6 +27,7 @@ If these data and codes help you, please cite this paper.
   year={2020}
 }
 ```
+![image](https://github.com/THU-KEG/MAVEN-dataset/assets/130818457/0ac3f7d8-f942-4b71-ad15-1655d9c23557)
 
 
 
