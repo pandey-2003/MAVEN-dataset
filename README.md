@@ -28,5 +28,6 @@ If these data and codes help you, please cite this paper.
 }
 ```
 
+![WhatsApp Image 2024-03-06 at 20 30 03_a8d9ef97](https://github.com/THU-KEG/MAVEN-dataset/assets/130818457/a64c1542-af27-40ed-b8f7-334ca73ee433)
 
 
